@@ -10,7 +10,7 @@ deployment:
 
 container:
   name: nginx
-  image: nginx
+  image: nginx:latest
   port: 80
 
 service:
